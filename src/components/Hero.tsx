@@ -18,7 +18,7 @@ export default function Hero() {
         </h1>
         
         <p className="max-w-2xl text-xl md:text-2xl text-slate-600 font-normal leading-relaxed">
-          Moving enterprise platforms from AI hype to realized commercial value. Strategy, governance, and operating models engineered for true organizational adoption.
+          Moving enterprise platforms from AI hype to realised commercial value. Strategy, governance, and operating models engineered for true organisational adoption.
         </p>
 
         <div className="pt-2">
@@ -32,7 +32,7 @@ export default function Hero() {
             The Enterprise AI Gap
           </h2>
           <p className="text-lg md:text-xl text-slate-600 font-normal leading-relaxed border-l-2 border-brand-indigo/30 pl-6">
-            80% of enterprise AI initiatives fail to make it past the proof-of-concept stage. The bottleneck isn&apos;t the technology—it&apos;s organizational inertia, compliance anxiety, and a lack of structured execution. Distild bridges the gap between technical capability and C-suite strategy.
+            80% of enterprise AI initiatives fail to make it past the proof-of-concept stage. The bottleneck isn&apos;t the technology—it&apos;s organisational inertia, compliance anxiety, and a lack of structured execution. Distild bridges the gap between technical capability and C-suite strategy.
           </p>
         </div>
         </div>

@@ -40,7 +40,7 @@ export default function AIGovernance() {
         
         <h3 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">1. Traceability and Data Lineage</h3>
         <p className="text-slate-700 text-lg leading-relaxed mb-6 font-normal">
-          When an AI system makes a recommendation regarding a loan approval or an insurance claim, the organization must be able to trace exactly <em className="italic">why</em> that output was generated. This requires strict Retrieval-Augmented Generation (RAG) architectures where the LLM is forcibly grounded in verified, auditable enterprise data. Every output must carry metadata linking back to the specific source document it relied upon. If an output cannot be sourced, it must be flagged or suppressed.
+          When an AI system makes a recommendation regarding a loan approval or an insurance claim, the organisation must be able to trace exactly <em className="italic">why</em> that output was generated. This requires strict Retrieval-Augmented Generation (RAG) architectures where the LLM is forcibly grounded in verified, auditable enterprise data. Every output must carry metadata linking back to the specific source document it relied upon. If an output cannot be sourced, it must be flagged or suppressed.
         </p>
 
         <h3 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">2. Immutable Logging and Red Teaming</h3>
@@ -50,7 +50,7 @@ export default function AIGovernance() {
 
         <h3 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">3. Human-in-the-Loop (HITL) Triaging</h3>
         <p className="text-slate-700 text-lg leading-relaxed mb-6 font-normal">
-          In regulated sectors, AI should rarely execute final actions autonomously. Instead, AI serves as an ultra-efficient intelligence layer that drafts, analyzes, and prepares decisions for human authorization. Designing slick, low-friction UX for human operators to review, modify, and approve AI outputs ensures that ultimate accountability remains with the organization, satisfying compliance mandates while still capturing massive efficiency gains.
+          In regulated sectors, AI should rarely execute final actions autonomously. Instead, AI serves as an ultra-efficient intelligence layer that drafts, analyses, and prepares decisions for human authorization. Designing slick, low-friction UX for human operators to review, modify, and approve AI outputs ensures that ultimate accountability remains with the organisation, satisfying compliance mandates while still capturing massive efficiency gains.
         </p>
 
         <h2 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">Regulatory Anticipation</h2>

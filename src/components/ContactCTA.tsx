@@ -11,7 +11,7 @@ export default function ContactCTA() {
             Ready to Distill Complexity?
           </h2>
           <p className="text-xl text-slate-600 font-normal mb-12 max-w-2xl mx-auto">
-            Partner with us to engineer AI strategies that your organization can actually execute. Schedule a high-level executive briefing.
+            Partner with us to engineer AI strategies that your organisation can actually execute. Schedule a high-level executive briefing.
           </p>
           
           <Link href="/briefing" className="group relative inline-flex items-center justify-center px-8 py-4 text-sm font-semibold tracking-widest text-white uppercase bg-brand-indigo hover:bg-indigo-700 transition-colors duration-300 shadow-sm">

@@ -4,7 +4,7 @@ export default function PerspectivesPage() {
   const ARTICLES = [
     {
       title: "The Adoption Bottleneck: Why 80% of Enterprise GenAI Fails to Scale",
-      excerpt: "The technology works, but the organization doesn't. Examining the structural inertia, compliance friction, and cultural gaps that trap AI initiatives in perpetual proof-of-concept purgatory.",
+      excerpt: "The technology works, but the organisation doesn't. Examining the structural inertia, compliance friction, and cultural gaps that trap AI initiatives in perpetual proof-of-concept purgatory.",
       date: "Q3 2025",
       readTime: "8 min read",
       slug: "adoption-bottleneck"

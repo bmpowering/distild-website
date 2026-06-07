@@ -22,7 +22,7 @@ export default function MetricsOfExecution() {
             <div className="flex flex-col space-y-2">
               <span className="text-xs font-semibold tracking-[0.15em] text-brand-blue uppercase">Operational Uplift</span>
               <p className="text-slate-600 leading-relaxed text-lg font-normal">
-                Consistent track record of driving double-digit efficiency gains, platform adoption, and structural cost optimization.
+                Consistent track record of driving double-digit efficiency gains, platform adoption, and structural cost optimisation.
               </p>
             </div>
           </div>
