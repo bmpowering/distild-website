@@ -46,7 +46,7 @@ export async function submitBriefing(formData: FormData) {
     });
 
     const autoResponderPromise = resend.emails.send({
-      from: "DISTILD Advisory <Advisory@distild.ai>",
+      from: "DISTILD Advisory <advisory@distild.ai>",
       to: email,
       subject: "Briefing Initiated | Distild Strategy",
       html: `
