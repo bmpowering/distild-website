@@ -1,5 +1,7 @@
 import BriefingForm from "@/components/BriefingForm";
 
+export const runtime = 'edge';
+
 export default function BriefingPage() {
   return (
     <main className="flex-1 flex flex-col pt-24 px-6 lg:px-16 w-full max-w-3xl mx-auto pb-12 md:pb-16">
