@@ -25,7 +25,7 @@ export async function submitBriefing(formData: FormData) {
 
   try {
     const internalEmailPromise = resend.emails.send({
-      from: "DISTILD Intake <onboarding@resend.dev>",
+      from: "DISTILD Intake <intake@distild.ai>",
       to: "aidistild@gmail.com",
       subject: `🚨 New Executive Briefing Request: ${company}`,
       html: `
