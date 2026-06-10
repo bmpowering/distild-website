@@ -25,7 +25,7 @@ export default function ProcessAutomation() {
 
       <article className="py-12 md:py-16">
         <p className="text-slate-700 text-lg leading-relaxed mb-6 font-normal">
-          The first wave of enterprise AI adoption was characterized by superficial integrations: floating chatbots, summarization widgets, and standalone copilot subscriptions. While these tools offer modest productivity bumps for individual knowledge workers, they fail to deliver structural cost reduction. To achieve enterprise yield, AI cannot be a bolt-on; it must fundamentally re-engineer the workflow itself.
+          The first wave of enterprise AI adoption was characterised by superficial integrations: floating chatbots, summarisation widgets, and standalone copilot subscriptions. While these tools offer modest productivity bumps for individual knowledge workers, they fail to deliver structural cost reduction. To achieve enterprise yield, AI cannot be a bolt-on; it must fundamentally re-engineer the workflow itself.
         </p>
         
         <h2 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">The Limitations of RPA and the Rise of IPA</h2>
@@ -33,7 +33,7 @@ export default function ProcessAutomation() {
           For years, Robotic Process Automation (RPA) was the gold standard for efficiency. However, RPA is brittle. It relies on strict deterministic rules and highly structured data. The moment a UI changes or an unstructured document enters the pipeline, the bot breaks.
         </p>
         <p className="text-slate-700 text-lg leading-relaxed mb-6 font-normal">
-          Intelligent Process Automation (IPA) solves this brittleness by injecting multimodal LLMs into the automation sequence. Instead of failing when encountering unstructured text, an IPA pipeline can read an invoice, parse a poorly formatted customer email, or synthesize a dense legal contract, extracting the exact entities required to feed the next deterministic system.
+          Intelligent Process Automation (IPA) solves this brittleness by injecting multimodal LLMs into the automation sequence. Instead of failing when encountering unstructured text, an IPA pipeline can read an invoice, parse a poorly formatted customer email, or synthesise a dense legal contract, extracting the exact entities required to feed the next deterministic system.
         </p>
 
         <h2 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">Targeting High-Friction Nodes</h2>
@@ -41,7 +41,7 @@ export default function ProcessAutomation() {
           The key to driving $2M+ in annual value is targeting the correct workflows. The highest yield is found in processes with:
         </p>
         <ul className="list-disc pl-6 mb-6 text-slate-700 text-lg leading-relaxed">
-          <li className="mb-2"><strong className="font-semibold text-slate-900">High Volume, Low Complexity:</strong> E.g., Level-1 customer support triaging, routine IT ticketing, or standardized data entry.</li>
+          <li className="mb-2"><strong className="font-semibold text-slate-900">High Volume, Low Complexity:</strong> E.g., Level-1 customer support triaging, routine IT ticketing, or standardised data entry.</li>
           <li className="mb-2"><strong className="font-semibold text-slate-900">High Friction, High Latency:</strong> E.g., Vendor onboarding, contract lifecycle management, or compliance document auditing.</li>
         </ul>
         <p className="text-slate-700 text-lg leading-relaxed mb-6 font-normal">

@@ -20,7 +20,7 @@ const SEGMENTS = [
   {
     title: "Startups",
     href: "/practices#startups",
-    focus: "Core Productization, Architecture, Rapid Validation",
+    focus: "Core Productisation, Architecture, Rapid Validation",
     description: "Build AI natively into your core product offering. We provide the architectural blueprints and rapid validation frameworks to ensure your MVP secures market fit and VC confidence.",
     accent: "text-slate-500",
     hoverBorder: "hover:border-slate-500",

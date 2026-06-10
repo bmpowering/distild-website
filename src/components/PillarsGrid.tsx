@@ -13,7 +13,7 @@ const PILLARS = [
   },
   {
     title: "Hub-and-Spoke Enablement",
-    description: "Designing decentralized AI operating models that scale engineering upskilling and adoption across internal business units.",
+    description: "Designing decentralised AI operating models that scale engineering upskilling and adoption across internal business units.",
     number: "03",
     accent: "text-slate-500",
   }

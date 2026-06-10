@@ -66,7 +66,7 @@ export default function PracticesPage() {
           <div className="flex items-center space-x-4 mb-6">
             <span className="text-sm font-semibold tracking-widest text-slate-500 uppercase">Startups</span>
           </div>
-          <h2 className="text-3xl font-medium text-slate-900 mb-6">Core Productization & Validation</h2>
+          <h2 className="text-3xl font-medium text-slate-900 mb-6">Core Productisation & Validation</h2>
           <p className="text-lg text-slate-600 max-w-3xl leading-relaxed mb-8">
             Build AI natively into your core product offering. We provide the architectural blueprints and rapid validation frameworks to ensure your MVP secures market fit and VC confidence from day one.
           </p>
