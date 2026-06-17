@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const PILLARS = [
   {
     title: "Governance & Risk Mitigation",
@@ -45,6 +47,44 @@ export default function PillarsGrid() {
             </div>
           ))}
         </div>
+
+        {/* Inline Case Study Anchor */}
+        <div className="mt-24">
+          <Link 
+            href="/case-studies/evhero" 
+            className="group block w-full border-y border-zinc-200 bg-transparent transition-all duration-300 hover:bg-zinc-50"
+          >
+            <div className="py-8 grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+              
+              {/* Left Element */}
+              <div className="md:col-span-3">
+                <span className="font-mono text-xs tracking-widest text-zinc-400 uppercase block">
+                  [ INSTITUTIONAL VALIDATION // CASE STUDY 01 ]
+                </span>
+              </div>
+
+              {/* Middle Element */}
+              <div className="md:col-span-6 space-y-1">
+                <h3 className="text-zinc-900 font-sans text-lg font-normal tracking-tight group-hover:text-black transition-colors">
+                  Project EVHero: Hardened Industrial IoT Architecture
+                </h3>
+                <p className="text-zinc-500 font-sans text-sm font-light leading-relaxed">
+                  An internal clean-tech incubation programme validating serverless data pipelines, edge validation schemas, and real-time telemetry concurrency under structural grid stress.
+                </p>
+              </div>
+
+              {/* Right Element */}
+              <div className="md:col-span-3 text-left md:text-right">
+                <span className="inline-flex items-center gap-1 font-mono text-xs uppercase tracking-wider text-zinc-500 group-hover:text-zinc-900 transition-colors">
+                  Analyse Blueprint 
+                  <span className="transform translate-x-0 group-hover:translate-x-1 transition-transform duration-300">→</span>
+                </span>
+              </div>
+
+            </div>
+          </Link>
+        </div>
+
       </div>
     </section>
   );
