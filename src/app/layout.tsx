@@ -12,7 +12,7 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Distild | Enterprise AI Transformation",
-  description: "AI Complexity, Distilled into Enterprise Yield. Moving enterprise platforms from AI hype to realised commercial value.",
+  description: "AI Complexity, Distilled into Enterprise Impact. Moving enterprise platforms from AI hype to concrete commercial returns, operational efficiency, and mitigated technical risk.",
 };
 
 export default function RootLayout({

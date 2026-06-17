@@ -14,11 +14,11 @@ export default function Hero() {
           <br />
           <span className="text-slate-500">Distilled into</span>
           <br />
-          <span className="bg-gradient-to-r from-brand-indigo to-brand-blue bg-clip-text text-transparent">Enterprise Yield.</span>
+          <span className="bg-gradient-to-r from-brand-indigo to-brand-blue bg-clip-text text-transparent">Enterprise Impact.</span>
         </h1>
         
         <p className="max-w-2xl text-xl md:text-2xl text-slate-600 font-normal leading-relaxed">
-          Moving enterprise platforms from AI hype to realised commercial value. Strategy, governance, and operating models engineered for true organisational adoption.
+          Moving enterprise platforms from AI hype to concrete commercial returns. Strategy, governance, and risk-mitigated operating models engineered for true organisational adoption and operational efficiency.
         </p>
 
         <div className="pt-2">

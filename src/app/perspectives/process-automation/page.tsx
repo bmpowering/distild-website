@@ -25,7 +25,7 @@ export default function ProcessAutomation() {
 
       <article className="py-12 md:py-16">
         <p className="text-slate-700 text-lg leading-relaxed mb-6 font-normal">
-          The first wave of enterprise AI adoption was characterised by superficial integrations: floating chatbots, summarisation widgets, and standalone copilot subscriptions. While these tools offer modest productivity bumps for individual knowledge workers, they fail to deliver structural cost reduction. To achieve enterprise yield, AI cannot be a bolt-on; it must fundamentally re-engineer the workflow itself.
+          The first wave of enterprise AI adoption was characterised by superficial integrations: floating chatbots, summarisation widgets, and standalone copilot subscriptions. While these tools offer modest productivity bumps for individual knowledge workers, they fail to deliver structural cost reduction. To achieve enterprise impact—anchored in robust operational efficiency and risk-mitigated business execution—AI cannot be a bolt-on; it must fundamentally re-engineer the workflow itself.
         </p>
         
         <h2 className="text-slate-900 text-2xl font-bold mt-10 mb-4 tracking-tight">The Limitations of RPA and the Rise of IPA</h2>

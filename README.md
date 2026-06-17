@@ -28,7 +28,7 @@ This is the highly minimalist, ultra-fast landing page for the **Distild** enter
 
 ## Deployment (Static Export)
 
-The site is optimized for zero-cost static deployment on Vercel or Cloudflare Pages. 
+The site is optimised for zero-cost static deployment on Vercel or Cloudflare Pages. 
 
 ### Vercel
 Push the repository to GitHub and import it into Vercel. Vercel automatically detects the Next.js framework and configures the build settings.
