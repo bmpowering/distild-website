@@ -15,7 +15,7 @@ export async function submitBriefing(formData: FormData) {
   const firstName = fullName ? fullName.split(' ')[0] : 'there';
 
   if (!process.env.RESEND_API_KEY || process.env.RESEND_API_KEY === "re_your_api_key_here") {
-    console.warn("⚠️ RESEND_API_KEY is missing. Simulating email delivery to aidistild@gmail.com for local development.");
+    console.warn("⚠️ RESEND_API_KEY is missing. Simulating email delivery to bobby@distild.ai for local development.");
     // Simulate network delay to show loading state
     await new Promise(resolve => setTimeout(resolve, 1000));
     return { success: true };
@@ -25,8 +25,8 @@ export async function submitBriefing(formData: FormData) {
 
   try {
     const internalEmailPromise = resend.emails.send({
-      from: "DISTILD Intake <intake@distild.ai>",
-      to: "aidistild@gmail.com",
+      from: "DISTILD Intake <advisory@distild.ai>",
+      to: "bobby@distild.ai",
       subject: `🚨 New Executive Briefing Request: ${company}`,
       html: `
         <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; color: #0f172a;">
